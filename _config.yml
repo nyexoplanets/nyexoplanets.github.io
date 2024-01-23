@@ -7,9 +7,9 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            New York Area Exoplanets I
+title:            NY Exoplanets
 tagline:          ''
-description:      ''
+description:      'Connecting all tri-state area exoplanet astronomers'
 url:              /
 baseurl:          /
 
@@ -22,7 +22,7 @@ paginate:            5
 paginate_path:       "page:num"
 
 # Custom vars
-version:          2.1.0
+#version:          2.1.0
 
 github:
   repo:           /
