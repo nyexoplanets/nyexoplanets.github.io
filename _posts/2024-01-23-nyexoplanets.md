@@ -19,11 +19,9 @@ The abstract deadline is **Friday, April 5th** by midnight EST.<br>
 Registration will open in April. The deadline to register is **May 17**.
 
 <p class='message'>
-### Stay Tuned!
+***** Stay Tuned! ***** <br>
 May 2024 Agenda Coming Soon
-<p>
-
-
+</p>
 
 ### SOC (Alphabetical)
 
