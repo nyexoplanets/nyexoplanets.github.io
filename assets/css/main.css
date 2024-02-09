@@ -2700,7 +2700,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #46365a;
+		background: #3F2F3C;
 		color: #b499d8;
 		height: 100%;
 		overflow-y: auto;
@@ -2808,7 +2808,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #3a2e49 !important;
+							color: #3F2F3C !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3076,7 +3076,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #3a2e49;
+						background: #3F2F3C;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
