@@ -51,6 +51,10 @@ table {
 	border-spacing: 0;
 }
 
+table.schedule {text-align: center;}
+tr.title {font-weight: bold;}
+td.time {font-weight: bold;}
+
 body {
 	-webkit-text-size-adjust: none;
 }
